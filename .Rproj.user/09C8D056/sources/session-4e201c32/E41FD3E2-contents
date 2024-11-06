@@ -1,0 +1,21 @@
+/.quarto/
+
+# Ignore everything in the root directory
+/*
+
+# Unignore the StatProgProject1 directory and its contents
+!StatProgProject1/
+!StatProgProject1/**
+
+# Ignore specific system and editor files
+.DS_Store
+.Trash/
+.vscode/
+.Rapp.history
+.bash_history
+.conda/
+.gitconfig
+.zsh_history
+.Rproj.user
+*~
+*.log

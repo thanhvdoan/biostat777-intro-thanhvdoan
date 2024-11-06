@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Thanh Doan"
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: "About Me"
+        href: about.qmd
+      - text: "Example Analysis"
+        href: example-analysis.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
