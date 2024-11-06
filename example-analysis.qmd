@@ -7,8 +7,7 @@ css: styles.css
 
 # Introduction
 
-I am using the `ToothGrowth` dataset for t
-his example analysis.
+I am using the `ToothGrowth` dataset for this example analysis.
 
 !["George the amazing guinea pig" by Plath81, licensed under CC BY-SA 3.0](images/gpig.jpg){width="600px"}
 
