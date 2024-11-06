@@ -1,4 +1,6 @@
 - source: project
   quarto-pub:
     - id: 8afd400a-8464-42e9-989b-041ccdd3ff6b
-      url: 'https://thanhvdoan.quarto.pub/biostat777-project1'
+      url: https://thanhvdoan.quarto.pub/biostat777-project1
+    - id: 47967a55-c3a8-42a8-8269-801864ea04af
+      url: https://thanhvdoan.quarto.pub/project1-biostat777

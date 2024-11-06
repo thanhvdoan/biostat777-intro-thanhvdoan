@@ -19,6 +19,18 @@ Your analysis must include one image or table (not one you created yourself, but
 
 </details>
 
+::: {.column-margin}
+![What their teeth look like!](images/gpig-teeth.jpg){width="600px"}
+:::
+
+<details>
+
+<summary>Criteria Met</summary>
+
+Your analysis must include the use of at least 1 margin content.
+
+</details>
+
 # Guiding Question
 
 How does the dose and type of supplement — either Vitamin C (VC) or Orange Juice (OJ) — affect the length of odontoblasts (type of specialized cells that contribute to tooth development) in guinea pigs, and are there noticeable differences between the two in terms of how much they help teeth grow?
