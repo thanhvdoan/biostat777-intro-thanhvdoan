@@ -1,7 +1,7 @@
 ---
 title: "Example Analysis"
 format: html
-bibliography: references.bib
+bibliography: refs.bib
 css: styles.css
 ---
 
