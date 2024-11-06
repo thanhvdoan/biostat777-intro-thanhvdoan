@@ -1,8 +1,11 @@
 # Ignore RStudio project files and system files
-.DS_Store
 .Rproj.user/
-.quarto/
 _site/
+.quarto/
+*.DS_Store
+*.log
+*.json
+*.png
 
 # Ignore any other unnecessary files or temporary build artifacts
 *.log
