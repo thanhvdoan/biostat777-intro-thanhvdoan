@@ -21,5 +21,5 @@ details > summary {
 }
 
 details {
-  font-weight: bold; /* Makes the text inside the <details> element bold */
+  font-weight: bold; 
 }
